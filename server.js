@@ -25,7 +25,7 @@ var querystring = require('query-string');
 //   });
 
   app.listen(1111, function () {
-    console.log('blob');
+    console.log('Starting server');
   });
 
 //   var payload = {
